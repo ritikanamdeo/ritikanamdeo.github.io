@@ -258,6 +258,10 @@ export const footer = [
 //         text: "LeetCode",
 //         link: "https://leetcode.com/NamdeoRitika/",
 //       },
+//       {
+//         text: "LinkedIn",
+//         link: "https://www.linkedin.com/in/abhinav-sahu-b69691185/",
+//       },
 //     ],
 //   },
 //   {

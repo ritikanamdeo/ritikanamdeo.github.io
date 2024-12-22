@@ -35,6 +35,12 @@ export const skills = [
     color: "3",
     percentage: "80",
   },
+  {
+    title: "Tools - TEST",
+    skillName: "Debugging, Chrome DevTools TEST",
+    color: "3",
+    percentage: "80",
+  },
 //   {
 //     title: "Analytics",
 //     skillName: "CleverTap, Countly",
@@ -253,10 +259,6 @@ export const footer = [
 //       {
 //         text: "GitHub",
 //         link: "https://github.com/RitikaNamdeo",
-//       },
-//       {
-//         text: "LeetCode",
-//         link: "https://leetcode.com/NamdeoRitika/",
 //       },
 //       {
 //         text: "LinkedIn",

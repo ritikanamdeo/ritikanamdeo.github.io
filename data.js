@@ -1,5 +1,5 @@
 export const bio = [
-  "Hello! I'm Vinay Somawat, an experienced Frontend Software Engineer with a proven ability to upgrade applications, optimize performance, and deliver innovative solutions.",
+  "Hello! I'm Ritika Namdeo, an experienced Frontend Software Engineer with a proven ability to upgrade applications, optimize performance, and deliver innovative solutions.",
   "I am passionate about using my technical skills to drive impactful contributions in challenging projects.",
   "Thanks for visiting!",
 ];
@@ -72,7 +72,7 @@ export const projects = {
       image: "images/portfolio.png",
       summary:
         "Web Portfolio to showcase acadmics, skills, projects and contact details in better manner.",
-      preview: "https://github.com/vinaysomawat/Travographer-Portal",
+      preview: "https://github.com/Ritikasomawat/Travographer-Portal",
       techStack: ["HTML", "Bootstrap", "JavaScript"],
     },
     {
@@ -80,7 +80,7 @@ export const projects = {
       image: "images/resume-builder.png",
       summary:
         "Browser based editor to build and download Resumes in a customizable templates.",
-      preview: "https://vinaysomawat.github.io/Resume-Builder",
+      preview: "https://Ritikasomawat.github.io/Resume-Builder",
       techStack: ["HTML", "Bootstrap", "JavaScript"],
     },
   ],
@@ -90,7 +90,7 @@ export const projects = {
       image: "images/pizzaorderchatbot.png",
       summary:
         "ChatBot using Dialogflow, Firebase database which stores the chat data in the realtime database.",
-      preview: "https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
+      preview: "https://github.com/Ritikasomawat/Pizza-Ordering-ChatBot",
       techStack: ["Dailogflow", "Firebase"],
     },
     {
@@ -98,7 +98,7 @@ export const projects = {
       image: "images/whatsappbot.jpg",
       summary:
         "Python script which helps to send messages to WhatsApp contacts automatically using selenium and web automation.",
-      preview: "https://github.com/vinaysomawat/WhatsApp-Bot",
+      preview: "https://github.com/Ritikasomawat/WhatsApp-Bot",
       techStack: ["Selenium", "Chrome Webdriver", "Python"],
     },
     {
@@ -106,7 +106,7 @@ export const projects = {
       image: "images/billgenerator.png",
       summary:
         "GUI to transfer data to excel sheets and generate bills on the local shops.",
-      preview: "https://github.com/vinaysomawat/Bill-Generator",
+      preview: "https://github.com/Ritikasomawat/Bill-Generator",
       techStack: ["Tkinter", "Openxlpy", "Python"],
     },
   ],
@@ -116,7 +116,7 @@ export const projects = {
       image: "images/nitwcse.jpg",
       summary:
         "The Application display details of Department courses, reference books, research, publication and faculty profile.",
-      preview: "https://github.com/vinaysomawat/NITW-CSE",
+      preview: "https://github.com/Ritikasomawat/NITW-CSE",
       techStack: ["JAVA", "XML", "Android"],
     },
     {
@@ -124,7 +124,7 @@ export const projects = {
       image: "images/carrerhigh.png",
       summary:
         "The Application display the webpages of website careerhigh.in in android devices.",
-      preview: "https://github.com/vinaysomawat/CareerHigh-Android",
+      preview: "https://github.com/Ritikasomawat/CareerHigh-Android",
       techStack: ["JAVA", "XML", "Android"],
     },
   ],
@@ -248,15 +248,15 @@ export const footer = [
 //     data: [
 //       {
 //         text: "Stackoverflow",
-//         link: "https://stackoverflow.com/users/8461233/vinay-somawat",
+//         link: "https://stackoverflow.com/users/8461233/Ritika-somawat",
 //       },
 //       {
 //         text: "GitHub",
-//         link: "https://github.com/vinaysomawat",
+//         link: "https://github.com/Ritikasomawat",
 //       },
 //       {
 //         text: "LeetCode",
-//         link: "https://leetcode.com/somawatvinay/",
+//         link: "https://leetcode.com/somawatRitika/",
 //       },
 //     ],
 //   },
@@ -273,7 +273,7 @@ export const footer = [
 //       },
 //       {
 //         text: "Clone this page",
-//         link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+//         link: "https://github.com/Ritikasomawat/Ritikasomawat.github.io",
 //       },
 //     ],
 //   },
@@ -282,7 +282,7 @@ export const footer = [
     data: [
     //   {
     //     text: "Linkedin",
-    //     link: "https://www.linkedin.com/in/vinaysomawat/",
+    //     link: "https://www.linkedin.com/in/Ritikasomawat/",
     //   },
     //   {
     //     text: "Twitter",
@@ -293,15 +293,15 @@ export const footer = [
         link: "https://www.buymeacoffee.com/r194dME8y",
       },
       {
-        text: "Github/vinaysomawat.github.io",
-        link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+        text: "Github/Ritikasomawat.github.io",
+        link: "https://github.com/Ritikasomawat/Ritikasomawat.github.io",
       },
     ],
   },
   {
     label: "copyright-text",
     data: [
-      "Made with &hearts; by Vinay Somawat.",
+      "Made with &hearts; by Ritika Namdeo.",
       "&copy; No Copyrights. Feel free to use this template.",
     ],
   },

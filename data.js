@@ -72,7 +72,7 @@ export const projects = {
       image: "images/portfolio.png",
       summary:
         "Web Portfolio to showcase acadmics, skills, projects and contact details in better manner.",
-      preview: "https://github.com/Ritikasomawat/Travographer-Portal",
+      preview: "https://github.com/RitikaNamdeo/Travographer-Portal",
       techStack: ["HTML", "Bootstrap", "JavaScript"],
     },
     {
@@ -80,7 +80,7 @@ export const projects = {
       image: "images/resume-builder.png",
       summary:
         "Browser based editor to build and download Resumes in a customizable templates.",
-      preview: "https://Ritikasomawat.github.io/Resume-Builder",
+      preview: "https://RitikaNamdeo.github.io/Resume-Builder",
       techStack: ["HTML", "Bootstrap", "JavaScript"],
     },
   ],
@@ -90,7 +90,7 @@ export const projects = {
       image: "images/pizzaorderchatbot.png",
       summary:
         "ChatBot using Dialogflow, Firebase database which stores the chat data in the realtime database.",
-      preview: "https://github.com/Ritikasomawat/Pizza-Ordering-ChatBot",
+      preview: "https://github.com/RitikaNamdeo/Pizza-Ordering-ChatBot",
       techStack: ["Dailogflow", "Firebase"],
     },
     {
@@ -98,7 +98,7 @@ export const projects = {
       image: "images/whatsappbot.jpg",
       summary:
         "Python script which helps to send messages to WhatsApp contacts automatically using selenium and web automation.",
-      preview: "https://github.com/Ritikasomawat/WhatsApp-Bot",
+      preview: "https://github.com/RitikaNamdeo/WhatsApp-Bot",
       techStack: ["Selenium", "Chrome Webdriver", "Python"],
     },
     {
@@ -106,7 +106,7 @@ export const projects = {
       image: "images/billgenerator.png",
       summary:
         "GUI to transfer data to excel sheets and generate bills on the local shops.",
-      preview: "https://github.com/Ritikasomawat/Bill-Generator",
+      preview: "https://github.com/RitikaNamdeo/Bill-Generator",
       techStack: ["Tkinter", "Openxlpy", "Python"],
     },
   ],
@@ -116,7 +116,7 @@ export const projects = {
       image: "images/nitwcse.jpg",
       summary:
         "The Application display details of Department courses, reference books, research, publication and faculty profile.",
-      preview: "https://github.com/Ritikasomawat/NITW-CSE",
+      preview: "https://github.com/RitikaNamdeo/NITW-CSE",
       techStack: ["JAVA", "XML", "Android"],
     },
     {
@@ -124,7 +124,7 @@ export const projects = {
       image: "images/carrerhigh.png",
       summary:
         "The Application display the webpages of website careerhigh.in in android devices.",
-      preview: "https://github.com/Ritikasomawat/CareerHigh-Android",
+      preview: "https://github.com/RitikaNamdeo/CareerHigh-Android",
       techStack: ["JAVA", "XML", "Android"],
     },
   ],
@@ -248,15 +248,15 @@ export const footer = [
 //     data: [
 //       {
 //         text: "Stackoverflow",
-//         link: "https://stackoverflow.com/users/8461233/Ritika-somawat",
+//         link: "https://stackoverflow.com/users/8461233/Ritika-Namdeo",
 //       },
 //       {
 //         text: "GitHub",
-//         link: "https://github.com/Ritikasomawat",
+//         link: "https://github.com/RitikaNamdeo",
 //       },
 //       {
 //         text: "LeetCode",
-//         link: "https://leetcode.com/somawatRitika/",
+//         link: "https://leetcode.com/NamdeoRitika/",
 //       },
 //     ],
 //   },
@@ -273,7 +273,7 @@ export const footer = [
 //       },
 //       {
 //         text: "Clone this page",
-//         link: "https://github.com/Ritikasomawat/Ritikasomawat.github.io",
+//         link: "https://github.com/RitikaNamdeo/RitikaNamdeo.github.io",
 //       },
 //     ],
 //   },
@@ -282,7 +282,7 @@ export const footer = [
     data: [
     //   {
     //     text: "Linkedin",
-    //     link: "https://www.linkedin.com/in/Ritikasomawat/",
+    //     link: "https://www.linkedin.com/in/RitikaNamdeo/",
     //   },
     //   {
     //     text: "Twitter",
@@ -293,8 +293,8 @@ export const footer = [
         link: "https://www.buymeacoffee.com/r194dME8y",
       },
       {
-        text: "Github/Ritikasomawat.github.io",
-        link: "https://github.com/Ritikasomawat/Ritikasomawat.github.io",
+        text: "Github/RitikaNamdeo.github.io",
+        link: "https://github.com/RitikaNamdeo/RitikaNamdeo.github.io",
       },
     ],
   },

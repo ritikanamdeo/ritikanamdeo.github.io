@@ -66,6 +66,14 @@ export const projects = {
       techStack: ["Django", "SQLite", "Bootstrap", "JavaScript", "Heroku"],
     },
     {
+      projectName: "Programming Diaries - TEST",
+      image: "images/programmingdiaries.png",
+      summary:
+        "TEST - Developed a full stack blog application to provide content on techical topics across the internet with admin interface.",
+      preview: "https://programmingdiaries.herokuapp.com/",
+      techStack: ["Django", "SQLite", "Bootstrap", "JavaScript", "Heroku"],
+    },
+    {
       projectName: "Find Your Bank",
       image: "images/findyourbank.png",
       summary:
@@ -159,7 +167,7 @@ export const experience = [
     title: "Shiprocket (Bigfoot Solution Private Limited)",
     duration: "September 2022 - Present",
     subtitle: "Software Engineer",
-    details: ["Working in support and escalation team."],
+    details: ["Working in support and escalation team.", "New point"],
     tags: ["JavaScript", "Angular", "Bootstrap", "Nodejs", "Jenkins"],
     icon: "truck ",
   },
